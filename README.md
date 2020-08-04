@@ -13,6 +13,6 @@ Half The Ram You Have Will Be Allocated By Changing The 2G
 For Example:
 For 8 GB Of Ram 4G Will Be Allocated
 
-#Download
+# Download
 
 wget https://download1497.mediafire.com/cdla2pj9qt7g/6sq2i6dj3hm87y7/Server+Install.sh
