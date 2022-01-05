@@ -1,4 +1,4 @@
-# MC-SERVER-INSTALL-SH-SCRIPT
+# MC-SERVER-INSTALL-SH-SCRIPT 
 Install A Minecraft Server On Linux Easy
 
 Please Note The Included Server Will Get Out Dated To Fix That Just Edit The 
